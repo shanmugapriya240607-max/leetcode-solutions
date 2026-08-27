@@ -6,6 +6,7 @@ My LeetCode problem solutions and Data Structures &amp; Algorithms practice in J
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [2235-add-two-integers](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
