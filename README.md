@@ -8,6 +8,7 @@ My LeetCode problem solutions and Data Structures &amp; Algorithms practice in J
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 ## Array
