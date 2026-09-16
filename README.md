@@ -6,6 +6,7 @@ My LeetCode problem solutions and Data Structures &amp; Algorithms practice in J
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/shanmugapriya240607-max/leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
